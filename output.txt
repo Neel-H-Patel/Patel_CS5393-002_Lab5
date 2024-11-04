@@ -1,0 +1,164 @@
+Inserting words into the Trie:
+Inserted word: 'prefix' into the Trie.
+Inserted word: 'prefixed' into the Trie.
+Inserted word: 'prefixing' into the Trie.
+Inserted word: 'pre' into the Trie.
+Inserted word: 'prequel' into the Trie.
+Inserted word: 'predict' into the Trie.
+Inserted word: 'prediction' into the Trie.
+Inserted word: 'predicting' into the Trie.
+Inserted word: 'predicted' into the Trie.
+Inserted word: 'pro' into the Trie.
+Inserted word: 'program' into the Trie.
+Inserted word: 'programming' into the Trie.
+Inserted word: 'programmer' into the Trie.
+Inserted word: 'programs' into the Trie.
+Inserted word: 'algorithm' into the Trie.
+Inserted word: 'algorithmic' into the Trie.
+Inserted word: 'algorithms' into the Trie.
+Inserted word: 'code' into the Trie.
+Inserted word: 'coding' into the Trie.
+Inserted word: 'coder' into the Trie.
+Inserted word: 'compute' into the Trie.
+Inserted word: 'computer' into the Trie.
+Inserted word: 'computing' into the Trie.
+Inserted word: 'data' into the Trie.
+Inserted word: 'database' into the Trie.
+Inserted word: 'debugging' into the Trie.
+Inserted word: 'hello' into the Trie.
+Inserted word: 'help' into the Trie.
+Inserted word: 'helping' into the Trie.
+Inserted word: 'helped' into the Trie.
+Inserted word: 'helper' into the Trie.
+Inserted word: 'world' into the Trie.
+Inserted word: 'word' into the Trie.
+Inserted word: 'words' into the Trie.
+Inserted word: 'working' into the Trie.
+Inserted word: 'work' into the Trie.
+Inserted word: 'worker' into the Trie.
+Inserted word: 'workers' into the Trie.
+Inserted word: 'a' into the Trie.
+Inserted word: 'an' into the Trie.
+Inserted word: 'at' into the Trie.
+Inserted word: 'by' into the Trie.
+Inserted word: 'do' into the Trie.
+Inserted word: 'go' into the Trie.
+Inserted word: 'in' into the Trie.
+Inserted word: 'it' into the Trie.
+Inserted word: 'on' into the Trie.
+Inserted word: 'to' into the Trie.
+Inserted word: 'workplace' into the Trie.
+Inserted word: 'workstation' into the Trie.
+Inserted word: 'workflow' into the Trie.
+Inserted word: 'workplace' into the Trie.
+Inserted word: 'workbook' into the Trie.
+Inserted word: 'worldwide' into the Trie.
+Inserted word: 'there' into the Trie.
+Inserted word: 'their' into the Trie.
+Inserted word: 'theirs' into the Trie.
+Inserted word: 'they' into the Trie.
+Inserted word: 'then' into the Trie.
+Inserted word: 'these' into the Trie.
+Inserted word: 'those' into the Trie.
+Inserted word: 'pneumonia' into the Trie.
+Inserted word: 'psychology' into the Trie.
+Inserted word: 'pterodactyl' into the Trie.
+Inserted word: 'xylophone' into the Trie.
+Inserted word: 'yacht' into the Trie.
+Inserted word: 'word2vec' into the Trie.
+Inserted word: '3dimensional' into the Trie.
+Inserted word: '4gotten' into the Trie.
+Inserted word: '2day' into the Trie.
+Inserted word: '24hours' into the Trie.
+Inserted word: 'iPhone' into the Trie.
+Inserted word: 'iPad' into the Trie.
+Inserted word: 'iMac' into the Trie.
+Inserted word: 'eBay' into the Trie.
+Inserted word: 'PowerPoint' into the Trie.
+Inserted word: 'JavaScript' into the Trie.
+Inserted word: 'a-frame' into the Trie.
+Inserted word: 'co-worker' into the Trie.
+Inserted word: 'e-mail' into the Trie.
+Inserted word: 't-shirt' into the Trie.
+Inserted word: 'x-ray' into the Trie.
+
+Searching for words in the Trie:
+Word 'prefix' found in the Trie.
+Word 'data' found in the Trie.
+Word 'hello' found in the Trie.
+Word 'do' found in the Trie.
+Word 'workplace' found in the Trie.
+Word 'there' found in the Trie.
+Word 'pneumonia' found in the Trie.
+Word 'word2vec' found in the Trie.
+Word 'iPhone' found in the Trie.
+Word 'a-frame' found in the Trie.
+Word 'abc' not found in the Trie.
+Word 'xyz' not found in the Trie.
+
+Finding words with given prefixes:
+Words starting with prefix 'pre':
+pre
+predict
+predicted
+predicting
+prediction
+prequel
+prefix
+prefixing
+prefixed
+Words starting with prefix 'pro':
+pro
+program
+programs
+programmer
+programming
+Words starting with prefix 'work':
+work
+workbook
+workflow
+workplace
+worker
+workers
+workstation
+working
+Words starting with prefix 'i':
+iMac
+it
+iPad
+iPhone
+in
+Words starting with prefix 'e':
+e-mail
+eBay
+
+Searching for short words:
+Word 'a' found in the Trie.
+Word 'an' found in the Trie.
+Word 'by' found in the Trie.
+
+Searching for hyphenated words:
+Word 'e-mail' found in the Trie.
+Word 't-shirt' found in the Trie.
+
+Searching for words with numbers:
+Word '24hours' found in the Trie.
+Word '2day' found in the Trie.
+
+Searching for mixed case words:
+Word 'JavaScript' found in the Trie.
+Word 'PowerPoint' found in the Trie.
+
+Searching for special case words:
+Word 'psychology' found in the Trie.
+Word 'pterodactyl' found in the Trie.
+Word 'xylophone' found in the Trie.
+Word 'yacht' found in the Trie.
+Word 'eBay' found in the Trie.
+Word 'iPad' found in the Trie.
+Word 'x-ray' found in the Trie.
+
+Handling exceptions and memory management:
+Word 'abc' not found in the Trie.
+Word 'xyz' not found in the Trie.
+The program '/Users/neelpatel/Desktop/classes/fall-24-classes/data-structures/Patel_CS5393-002_Lab5/main' has exited with code 0 (0x00000000).
